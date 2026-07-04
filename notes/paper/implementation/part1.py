@@ -6,7 +6,6 @@ Token Embedding Layer
 
 This file implements the first component of the Transformer:
     1. Token Embedding
-    
 
 The purpose of the embedding layer is to convert each token
 (integer ID) into a dense vector representation.
@@ -203,3 +202,6 @@ Positional Encoding layer.
 
 print("\nFinal Output Shape:")
 print(embedded_tokens.shape)
+
+
+
