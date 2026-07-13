@@ -1,6 +1,6 @@
 """
 ============================================================
-Transformer From Scratch - Part 6
+Transformer From Scratch - Part 5.5
 Residual Connection + Layer Normalization
 ============================================================
 
